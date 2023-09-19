@@ -1,0 +1,1 @@
+A simple calculator for Price Elasticity using the pandas library.
